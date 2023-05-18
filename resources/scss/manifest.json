@@ -1,0 +1,28 @@
+{
+  "public/images/bg-slider-new.jpg": {
+    "file": "assets/bg-slider-new.9e18c309.jpg",
+    "src": "public/images/bg-slider-new.jpg"
+  },
+  "public/images/left-Layer.jpg": {
+    "file": "assets/left-Layer.462ca790.jpg",
+    "src": "public/images/left-Layer.jpg"
+  },
+  "public/images/right-Layer.jpg": {
+    "file": "assets/right-Layer.17fd51a7.jpg",
+    "src": "public/images/right-Layer.jpg"
+  },
+  "public/images/bg-sec.jpg": {
+    "file": "assets/bg-sec.b3e98672.jpg",
+    "src": "public/images/bg-sec.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.ff199ed2.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app.4dc8e5ad.css",
+    "src": "resources/scss/app.scss",
+    "isEntry": true
+  }
+}
